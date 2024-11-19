@@ -21,8 +21,9 @@ body {
 }
 
 #board div {
-    width: 180px; 
-    height: 180px;
+    width: 100px; 
+    height: 100px;
+    padding:40px;
     background-image: url("./pipe.png");
     background-size: cover;
 }
